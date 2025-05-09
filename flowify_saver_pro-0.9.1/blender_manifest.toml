@@ -10,5 +10,5 @@ blender_version_min = "4.3.0"
 license = ["SPDX:GPL-3.0-or-later"]
 copyright = ["2025 BERG"]
 website = "https://github.com/Beragragui/flowify-saver-pro"
-permissions = { "files" = "Required for reading recent-files.txt, writing .blend backups, and managing project folders" }
+permissions = { "files" = "Required for reading recent-files" }
 exclude = ["screenshots/*", "*.md", "*.pdf"]
