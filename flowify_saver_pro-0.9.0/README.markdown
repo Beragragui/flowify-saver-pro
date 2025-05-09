@@ -13,7 +13,7 @@ Flowify Saver Pro is a Blender add-on that simplifies saving and managing `.blen
 3. Select the zip and enable “System: Flowify Saver Pro.”
 
 ## Documentation
-See [documentation.md](documentation.md) for detailed usage and troubleshooting.
+See [documentation.pdf] for detailed usage and troubleshooting.
 
 ## Support
 Report bugs or ask questions at [Issues](https://github.com/Beragragui/flowify-saver-pro/issues).
