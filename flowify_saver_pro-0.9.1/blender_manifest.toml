@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "flowify_saver_pro"
+version = "0.9.1"
+name = "Flowify Saver Pro"
+tagline = "Auto-save and manage Blender files with ease"
+maintainer = "BERG"
+type = "add-on"
+categories = ["System"]
+blender_version_min = "4.3.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 BERG"]
+website = "https://github.com/Beragragui/flowify-saver-pro"
+permissions = { "files" = "Required for reading recent-files.txt, writing .blend backups, and managing project folders" }
+exclude = ["screenshots/*", "*.md", "*.pdf"]
